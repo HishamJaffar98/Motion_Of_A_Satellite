@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 523ecc1ee782d0942b574d6cc55db0b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2703089802307608607
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_0
+  - first:
+      213: -325867662354004105
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_1
+  - first:
+      213: 217161254531625533
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_2
+  - first:
+      213: -8249656859412698447
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_3
+  - first:
+      213: 257863825430739518
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_4
+  - first:
+      213: -5326247480133703656
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_5
+  - first:
+      213: 1014553402814137969
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_6
+  - first:
+      213: 5384862529448996619
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_7
+  - first:
+      213: 444428689650795306
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_8
+  - first:
+      213: -4963661008118520349
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_9
+  - first:
+      213: 2643403995120961055
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_10
+  - first:
+      213: -3877955423776464240
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_11
+  - first:
+      213: -3998371134986325301
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_12
+  - first:
+      213: -4865535697596169914
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_13
+  - first:
+      213: 197907663183092925
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_14
+  - first:
+      213: -7739884378878171372
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_15
+  - first:
+      213: 8405301844377152997
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_16
+  - first:
+      213: 7138537349715887984
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_17
+  - first:
+      213: 1803087824739480591
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_18
+  - first:
+      213: 622352169160032713
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_19
+  - first:
+      213: 4793018664443944735
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_20
+  - first:
+      213: -5375639690415515035
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_21
+  - first:
+      213: 1863081490899895689
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_22
+  - first:
+      213: 1211029815546825818
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_23
+  - first:
+      213: 622775438261453679
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_24
+  - first:
+      213: 8984471030054164993
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_25
+  - first:
+      213: 4148424914521222771
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_26
+  - first:
+      213: 4912818967576617156
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_27
+  - first:
+      213: -2771389316186117923
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_28
+  - first:
+      213: -1089534494544119323
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_29
+  - first:
+      213: 6694738286907534904
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_30
+  - first:
+      213: -1061692131885024956
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_31
+  - first:
+      213: 3065007768352626503
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_32
+  - first:
+      213: 3252422710141201031
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_33
+  - first:
+      213: 1858982649769794487
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_34
+  - first:
+      213: -5096732056260605056
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_35
+  - first:
+      213: -887484800044055757
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_36
+  - first:
+      213: 6308979359485819166
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_37
+  - first:
+      213: -4288867975569225760
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_38
+  - first:
+      213: -2498800028456739569
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_39
+  - first:
+      213: -8529669437491705522
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_40
+  - first:
+      213: -2586702521440305188
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_41
+  - first:
+      213: -796473763414715744
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_42
+  - first:
+      213: -2455120023209787481
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_43
+  - first:
+      213: 5540179664857102660
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_44
+  - first:
+      213: -5136658875675148453
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_45
+  - first:
+      213: 8167281399435787569
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_46
+  - first:
+      213: 2919178126275494774
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_47
+  - first:
+      213: -1836039955703829143
+    second: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a6868add438520800000000000000
+      internalID: 2703089802307608607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 341
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7774a9d66194a7bf0800000000000000
+      internalID: -325867662354004105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 345
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32f55ba203830300800000000000000
+      internalID: 217161254531625533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 344
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba67df7bc4538d80800000000000000
+      internalID: -8249656859412698447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 345
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af83378cd149300800000000000000
+      internalID: 257863825430739518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 342
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818afc0f22e5516b0800000000000000
+      internalID: -5326247480133703656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 274
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176866cc1fa641e00800000000000000
+      internalID: 1014553402814137969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 196
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6e18b0ffdaba40800000000000000
+      internalID: 5384862529448996619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 53
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c0aed98dea2600800000000000000
+      internalID: 444428689650795306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 269
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e563a99c988d1bb0800000000000000
+      internalID: -4963661008118520349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16880f9de14fa420800000000000000
+      internalID: 2643403995120961055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092210f961cbe2ac0800000000000000
+      internalID: -3877955423776464240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f6f213aee288c0800000000000000
+      internalID: -3998371134986325301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 274
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414ccecf052a7cb0800000000000000
+      internalID: -4865535697596169914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1b5a98fb1fb200800000000000000
+      internalID: 197907663183092925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172f524a28669490800000000000000
+      internalID: -7739884378878171372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 122
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed29088e71a5a470800000000000000
+      internalID: 8405301844377152997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778ca1e5ed211360800000000000000
+      internalID: 7138537349715887984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bd6cc2dad50910800000000000000
+      internalID: 1803087824739480591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14aff100a03a800800000000000000
+      internalID: 622352169160032713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9fffa419348240800000000000000
+      internalID: 4793018664443944735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ada44de24e565b0800000000000000
+      internalID: -5375639690415515035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98581b4bebefad910800000000000000
+      internalID: 1863081490899895689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c431073317ec010800000000000000
+      internalID: 1211029815546825818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110030548-futuristic-and-sci-fi-design-arrow-icons-set_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63896426fa84a800800000000000000
+      internalID: 622775438261453679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e350df1466614c34d9a241fd979c2357
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
